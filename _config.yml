@@ -18,21 +18,51 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Eddy's World!
-email: 2521.eddy@gmail.com
+title: eddycyu.dev
+tagline: Making the world a better place, one line at a time.
 description: >- # this means to ignore newlines until "baseurl:"
-  Making the world a better place with one code snipet at a time.
-  This is a collection of my interests and learning. Feel free
-  to explore and share with the world.
+  Making the world a better place, one line at a time.
+  This is a collection of notes that I have accumulated over the years, and
+  serves as a personal knowledge base to remind me of things that have grown
+  rusty in my mind over the years. Feel free to explore and share with the
+  world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linked_username: eddycyu
+github_username: eddycyu
 twitter_username: eddycyu
-github_username:  eddycyu
+show_downloads: false
+page_excerpts: false
+show_content_metadata_date: true # true to show date, modified_data
+show_content_metadata_author: false # true to show author
+# google_analytics: [Your Google Analytics tracking ID]
+
+# customize permalink to omit date and extension
+#permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories/:title
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+
+# Define list of pages for top navigation (rendered from right to left)
+top_nav_list:
+  Feed: '/feed.xml'
+  USACO: '/usaco'
+  MOOCS: '/moocs'
+  Projects: '/projects'
+  Blog: '/blog'
+  About: '/about'
+
+# Define page collections
+collections:
+  projects:
+    output: true
+  usaco:
+    output: true
+  moocs:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
