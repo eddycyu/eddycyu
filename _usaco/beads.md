@@ -197,4 +197,5 @@ Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/beads.java){:
 
 ### Links:
 * [Subset Sums](/usaco/subset)
+* [Cow Pedigrees](/usaco/nowcows)
 * [Find The Nth Fibonacci Number In The Sequence Using Dynamic Programming](/blog/find-nth-fibonacci-number-dynamic-programming.html)

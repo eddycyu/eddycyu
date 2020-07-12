@@ -21,7 +21,7 @@
 title: eddycyu.dev
 tagline: Making the world a better place, one line at a time.
 description: >- # this means to ignore newlines until "baseurl:"
-  Making the world a better place, one line at a time.
+  Making the world a better place, one code snippet at a time.
   This is a collection of notes that I have accumulated over the years, and
   serves as a personal knowledge base to remind me of things that have grown
   rusty in my mind over the years. Feel free to explore and share with the
@@ -52,7 +52,7 @@ top_nav_list:
   USACO: '/usaco'
   MOOCS: '/moocs'
   Projects: '/projects'
-  Blog: '/blog'
+  Notes: '/notes'
   About: '/about'
 
 # Define page collections

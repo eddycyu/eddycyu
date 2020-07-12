@@ -6,11 +6,11 @@ permalink: /about/
 
 This site is a collection of notes that I have accumulated over the years, and
 serves as a personal knowledge base to <strike>occasionally</strike> frequently
-remind me of things that have grown rusty in my mind over the years, and as a 
-reference teaching material whenever my children asked me for help with a 
-programming problem. I have also included source code with solutions from 
-USACO problems and projects from various MOOCS that I have labored over with
-my children while teaching them the joys of programming.
+remind myself of things that have grown rusty in my mind over the years, and as
+a handy reference material whenever my children have a programming or design
+question. I have also included source code with solutions from USACO problems 
+and projects from various MOOCS that I have labored over with my children while 
+teaching them the joys of programming.
 
 I share them with you with the hope that you may find them useful in your
 programming endeavours.
