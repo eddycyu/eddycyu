@@ -4,7 +4,7 @@ title: Developer Notes
 permalink: /notes/
 ---
 
-The following notes contain short and concise solutions to various 
+The following notes contain short and concise recipes to various 
 programming questions. They serve as a knowledge base and can be used as a
 quick reference by the experienced developer and as a high-level  
 introduction by the novice developer.
