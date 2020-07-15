@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to implement _Comparable_ objects in Java for multi-field
+This recipe shows how to implement _Comparable_ objects in Java for multi-field
 comparison.
 
 Unlike the _equals()_ method in objects which only allows for equality 

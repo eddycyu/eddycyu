@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to override the _equals()_ and _hashCode()_ methods in Java.
+This recipe shows how to override the _equals()_ and _hashCode()_ methods in Java.
 
 __WARNING:__ If you override _equals()_, you __must__ also override 
 _hashCode()_. Failure to do so will prevent hash-based collections from working

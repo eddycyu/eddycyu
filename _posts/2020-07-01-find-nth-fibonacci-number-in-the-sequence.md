@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to find the _nth_ Fibonacci number in the Fibonacci
+This recipe shows how to find the _nth_ Fibonacci number in the Fibonacci
 sequence. We will demonstrate two different approaches to implementing
 the solution.
 

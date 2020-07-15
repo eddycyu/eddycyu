@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to implement _Comparable_ objects using _Comparator_ in 
+This recipe shows how to implement _Comparable_ objects using _Comparator_ in 
 Java for multi-field comparison.
 
 This implementation is more concise but slightly slower than the 

@@ -31,6 +31,7 @@
     <section>
         <header class="content-header">
             <h1 class="content-title" itemprop="name headline">{{ page.title | escape }}</h1>
+            <h3 class="content-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>
             <p class="content-meta">
                 {%- if site.show_content_metadata_date -%}
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

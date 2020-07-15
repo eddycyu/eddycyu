@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to check if a given string is a palindrome. We will
+This recipe shows how to check if a given string is a palindrome. We will
 demonstrate three different approaches to implementing the solution.
 
 ### Problem:

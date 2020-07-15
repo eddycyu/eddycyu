@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to reverse a string. We will explore three different
+This recipe shows how to reverse a string. We will explore three different
 approaches to implementing the solution.
 
 ### Problem:

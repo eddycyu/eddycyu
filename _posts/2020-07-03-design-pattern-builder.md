@@ -36,6 +36,14 @@ pattern using a [fluent interface](https://en.wikipedia.org/wiki/Fluent_interfac
 The _Person_ class has two required and immutable attributes, along with many 
 optional attributes.
 ```java
+package dev.eddycyu.designpattern.builder;
+
+/**
+ * This example shows how to implement a <code>Person</code> class with the
+ * Builder design pattern using a fluent interface. The <code>Person</code>
+ * class has two required and immutable attributes, along with many
+ * optional attributes.
+ */
 public class Person {
     // required (and immutable) attributes
     private String firstName;
@@ -183,8 +191,8 @@ public class Person {
     public static class Builder {
 
         // same attributes as outer class
-        String firstName;
-        private String lastName;
+        private final String firstName;
+        private final String lastName;
         private String middleName;
         private int birthDay;
         private int birthMonth;
@@ -278,6 +286,8 @@ public class Person {
             person.setBirthMonth(birthMonth);
             person.setBirthYear(birthYear);
             person.setSsn(ssn);
+            person.setPhoneNumber1(phoneNumber1);
+            person.setPhoneNumber2(phoneNumber2);
             person.setStreetAddress1(streetAddress1);
             person.setStreetAddress2(streetAddress2);
             person.setCity(city);
@@ -320,7 +330,7 @@ Last Name      : Smith
 Birth Day      : 2
 Birth Month    : 14
 Birth Year     : 1969
-Phone Number1  : null
+Phone Number1  : 555-222-3333
 Street Address1: 1234 Main Street
 City           : Central City
 ```

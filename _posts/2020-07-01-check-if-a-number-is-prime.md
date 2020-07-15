@@ -9,7 +9,7 @@ author: Eddy Yu
 published: true
 ---
 
-This note shows how to check if a given number is prime. We will
+This recipe shows how to check if a given number is prime. We will
 demonstrate two different approaches to implementing the solution.
 
 ### Problem:
