@@ -49,7 +49,7 @@ public class WildcardList<E> {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/generics/WildcardList.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/generics/WildcardList.java){:target="_blank" rel="noopener"}
 
 ### Output:
 ```

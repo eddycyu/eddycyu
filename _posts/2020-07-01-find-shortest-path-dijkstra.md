@@ -119,7 +119,7 @@ public class Dijkstra {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/graph/Dijkstra.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/graph/Dijkstra.java){:target="_blank" rel="noopener"}
 
 ### Solution Notes:
 Space Complexity: O(V)

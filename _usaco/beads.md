@@ -56,8 +56,8 @@ breaking point either between bead 9 and bead 10 or else between bead 24 and
 bead 25.
 
 In some necklaces, white beads had been included as shown in Figure B above. 
-**When collecting beads, a white bead that is encountered may be treated as 
-either red or blue and then painted with the desired color.** The string that 
+__When collecting beads, a white bead that is encountered may be treated as 
+either red or blue and then painted with the desired color.__ The string that 
 represents this configuration can include any of the three symbols r, b and w.
 
 Write a program to determine the largest number of beads that can be collected 
@@ -113,13 +113,6 @@ case the result is N.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class beads {
 
     public static void main(String[] args) throws IOException {
@@ -193,7 +186,7 @@ public class beads {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/beads.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/beads.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Subset Sums](/usaco/subset)

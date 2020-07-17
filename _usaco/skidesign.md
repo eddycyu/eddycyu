@@ -74,15 +74,6 @@ changes. Keep track of the lowest cost.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class skidesign {
 
     public static void main(String[] args) throws IOException {
@@ -153,4 +144,4 @@ public class skidesign {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/skidesign.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/skidesign.java){:target="_blank" rel="noopener"}

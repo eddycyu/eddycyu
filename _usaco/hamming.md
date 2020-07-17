@@ -49,16 +49,6 @@ as a base 2^B integer, would have the least value.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class hamming {
 
     public static void main(String[] args) throws IOException {
@@ -147,7 +137,7 @@ public class hamming {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/hamming.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/hamming.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Find The Nth Fibonacci Number In The Sequence Using Recursion](/blog/find-nth-fibonacci-number-recursion)

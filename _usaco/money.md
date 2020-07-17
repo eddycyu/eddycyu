@@ -150,4 +150,4 @@ public class money {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/money.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/money.java){:target="_blank" rel="noopener"}

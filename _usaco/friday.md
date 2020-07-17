@@ -62,13 +62,6 @@ functions to make the code more readable.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class friday {
 
     // months
@@ -179,4 +172,4 @@ public class friday {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/friday.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/friday.java){:target="_blank" rel="noopener"}

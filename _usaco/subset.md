@@ -107,13 +107,6 @@ problem.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class subset {
 
     public static void main(String[] args) throws IOException {
@@ -156,7 +149,7 @@ public class subset {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/subset.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/subset.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Broken Necklace](/usaco/beads)

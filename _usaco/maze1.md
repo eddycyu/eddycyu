@@ -74,4 +74,4 @@ point inside the maze.
 ### Solution:
 ```java
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/maze1.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/maze1.java){:target="_blank" rel="noopener"}

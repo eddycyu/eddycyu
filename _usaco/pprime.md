@@ -78,15 +78,6 @@ numbers that are palindromic when written in two or more bases.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.List;
-
 public class pprime {
 
     public static void main(String[] args) throws IOException {
@@ -287,7 +278,7 @@ public class pprime {
 }
 
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/pprime.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/pprime.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Palindromic Squares](/usaco/palsquare)

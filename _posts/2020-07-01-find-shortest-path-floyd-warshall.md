@@ -127,7 +127,7 @@ public class FloydWarshall {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/graph/FloydMarshall.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/graph/FloydWarshall.java){:target="_blank" rel="noopener"}
 
 ### Solution Notes:
 Space Complexity: O(V^2)

@@ -98,7 +98,7 @@ public class SingletonEager implements Serializable {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonEager.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonEager.java){:target="_blank" rel="noopener"}
 
 ### Option 1 Output:
 ```
@@ -174,7 +174,7 @@ public class SingletonLazy implements Serializable {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonLazy.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonLazy.java){:target="_blank" rel="noopener"}
 
 ### Option 2 Output:
 ```
@@ -250,7 +250,7 @@ public class SingletonHolder implements Serializable {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonHolder.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonHolder.java){:target="_blank" rel="noopener"}
 
 ### Option 3 Output:
 ```
@@ -306,7 +306,7 @@ public enum SingletonEnum {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonEnum.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/designpattern/singleton/SingletonEnum.java){:target="_blank" rel="noopener"}
 
 ### Option 4 Output:
 ```

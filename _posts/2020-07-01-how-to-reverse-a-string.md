@@ -32,7 +32,7 @@ public class ReverseString {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/string/ReverseString.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/string/ReverseString.java){:target="_blank" rel="noopener"}
 
 ### Solution 2:
 The next solution demonstrates an implementation using iteration.
@@ -53,7 +53,7 @@ public class ReverseString {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/iteration/ReverseString.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/iteration/ReverseString.java){:target="_blank" rel="noopener"}
 
 ### Solution 3:
 The final solution demonstrates an implementation using recursion.
@@ -73,7 +73,7 @@ public class ReverseString {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/recursion/ReverseString.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/recursion/ReverseString.java){:target="_blank" rel="noopener"}
 
 ### Notes: 
 

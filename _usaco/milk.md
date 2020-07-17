@@ -105,16 +105,6 @@ farmer. Continue until we have purchased as much as we need.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 class milk {
 
     public static void main(String[] args) throws IOException {
@@ -175,4 +165,4 @@ class milk {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/milk.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/milk.java){:target="_blank" rel="noopener"}

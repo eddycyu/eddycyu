@@ -59,13 +59,6 @@ A single line containing the number of exchanges required.
 
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class sort3 {
 
     public static void main(String[] args) throws IOException {
@@ -160,4 +153,4 @@ public class sort3 {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/sort3.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/sort3.java){:target="_blank" rel="noopener"}

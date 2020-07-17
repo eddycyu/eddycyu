@@ -176,13 +176,6 @@ room is created, and keep track of which removal resulted in the creation of
 the largest room.
 
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class castle {
 
     static final int WEST = 0x1;
@@ -401,7 +394,7 @@ public class castle {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/pprime.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/pprime.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Find The Nth Fibonacci Number In The Sequence Using Recursion](/blog/find-nth-fibonacci-number-recursion)

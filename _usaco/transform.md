@@ -64,13 +64,6 @@ end pattern to determine which transformation was applied.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class transform {
 
     public static void main(String[] args) throws IOException {
@@ -171,4 +164,4 @@ public class transform {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/transform.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/transform.java){:target="_blank" rel="noopener"}

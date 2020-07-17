@@ -81,16 +81,6 @@ to solve this problem.
     
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 class barn1 {
 
     public static void main(String[] args) throws IOException {
@@ -213,7 +203,7 @@ class barn1 {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/barn1.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/barn1.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Palindromic Squares](/usaco/palsquare)

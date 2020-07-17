@@ -158,4 +158,4 @@ public class comehome {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/comehome.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/comehome.java){:target="_blank" rel="noopener"}

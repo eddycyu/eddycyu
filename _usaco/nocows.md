@@ -58,13 +58,6 @@ Two possible pedigrees have 5 nodes and height equal to 3:
 
 ### Solution:
 ```java
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-
 public class nocows {
 
     public static void main(String[] args) throws IOException {
@@ -106,7 +99,7 @@ public class nocows {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/usaco/blob/master/src/nocows.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/nocows.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Subset Sums](/usaco/subset)
