@@ -50,7 +50,7 @@ public class Palindrome1 {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome1.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome1.java){:target="_blank" rel="noopener"}
 
 ### Solution 2:
 The next solution demonstrates an implementation using iteration.
@@ -75,7 +75,7 @@ public class Palindrome2 {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome2.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome2.java){:target="_blank" rel="noopener"}
 
 ### Solution 3:
 The final solution demonstrates an implementation using recursion.
@@ -99,7 +99,7 @@ public class Palindrome3 {
     }
 }
 ```
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome3.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/palindrome/Palindrome3.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [How To Reverse A String](/blog/how-to-reverse-a-string)

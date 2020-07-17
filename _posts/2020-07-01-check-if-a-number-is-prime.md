@@ -64,7 +64,7 @@ public class Prime1 {
 }
 
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/prime/Prime1.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/prime/Prime1.java){:target="_blank" rel="noopener"}
 
 ### Solution 2:
 The next solution is simpler but less optimized. It uses the following facts:
@@ -101,4 +101,4 @@ public class Prime2 {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/prime/Prime2.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/prime/Prime2.java){:target="_blank" rel="noopener"}

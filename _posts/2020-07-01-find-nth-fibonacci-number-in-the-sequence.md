@@ -52,7 +52,7 @@ public class Fibonacci {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/recursion/Fibonacci.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/recursion/Fibonacci.java){:target="_blank" rel="noopener"}
 
 ### Solution 1 Notes: 
 Time Complexity: T(n-1) + T(n-2) + O(1) = O(2<sup>n</sup>)
@@ -109,7 +109,7 @@ public class Fibonacci {
     }
 }
 ``` 
-Link: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/dynamicprogramming/Fibonacci.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/learnbyexample/blob/master/src/main/java/dev/eddycyu/dynamicprogramming/Fibonacci.java){:target="_blank" rel="noopener"}
 
 ### Solution 2 Notes: 
 Time Complexity: O(n)
