@@ -10,9 +10,10 @@ published: true
 ---
 
 This recipe shows how to use bounded wildcards (Java Generics) to implement a 
-_concat()_ method which will append the elements from list2 to list1. The type
-of elements contained in list1 and list2 are of different types, but both types 
-are subclasses of the elements contained in the combined list.
+_concat()_ method which will append the elements from list2 to the end of 
+list1. The type of elements contained in list1 and list2 are of different 
+types, but both types are subclasses of the elements contained in the combined 
+list.
 
 ### Example:
 ```java

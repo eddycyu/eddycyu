@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Computer Science: Programming With A Purpose"
+subtitle: By Princeton University
 category: moocs
 tags: [moocs, coursera, programming with a purpose]
 order: purpose.2.

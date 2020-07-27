@@ -15,6 +15,6 @@ teaching them the joys of programming.
 I share them with you with the hope that you may find them useful in your
 programming endeavours.
 
-[<img src="/assets/LI-In-Bug.png" height="100">](https://linkedin.com/in/{{site.linked_username}}){:target="_blank" rel="noopener"}&nbsp;&nbsp;&nbsp;
-[<img src="/assets/GitHub-Mark-Light-120px-plus.png" height="100">](https://github.com/{{site.github_username}}){:target="_blank" rel="noopener"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="/assets/Twitter_Social_Icon_Circle_Color.png" height="100">](https://twitter.com/{{site.twitter_username}}){:target="_blank" rel="noopener"} 
+[<img src="/assets/LI-In-Bug.png" height="50">](https://linkedin.com/in/{{site.linked_username}}){:target="_blank" rel="noopener"}&nbsp;&nbsp;&nbsp;
+[<img src="/assets/GitHub-Mark-Light-120px-plus.png" height="50">](https://github.com/{{site.github_username}}){:target="_blank" rel="noopener"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="/assets/Twitter_Social_Icon_Circle_Color.png" height="50">](https://twitter.com/{{site.twitter_username}}){:target="_blank" rel="noopener"} 
