@@ -118,4 +118,4 @@ public class Birthday {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Birthday.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Birthday.java){:target="_blank" rel="noopener"}

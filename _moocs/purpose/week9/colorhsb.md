@@ -169,4 +169,4 @@ public class ColorHSB {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/ColorHSB.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/ColorHSB.java){:target="_blank" rel="noopener"}

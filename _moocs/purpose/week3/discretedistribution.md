@@ -99,4 +99,4 @@ public class DiscreteDistribution {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/DiscreteDistribution.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/DiscreteDistribution.java){:target="_blank" rel="noopener"}

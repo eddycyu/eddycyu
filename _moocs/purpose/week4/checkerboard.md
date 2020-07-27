@@ -68,4 +68,4 @@ public class Checkerboard {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Checkerboard.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Checkerboard.java){:target="_blank" rel="noopener"}

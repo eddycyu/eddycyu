@@ -91,4 +91,4 @@ public class ShannonEntropy {
     }
 }
 ``` 
-Link: [Java Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/ShannonEntropy.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/ShannonEntropy.java){:target="_blank" rel="noopener"}
