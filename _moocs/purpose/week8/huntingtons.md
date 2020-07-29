@@ -68,7 +68,7 @@ Here is some more information about the required behavior:
   [repeats4.txt](https://github.com/eddycyu/programming-with-a-purpose/blob/master/data/repeats4.txt){:target="_blank" rel="noopener"},
   [repeats64.txt](https://github.com/eddycyu/programming-with-a-purpose/blob/master/data/repeats64.txt){:target="_blank" rel="noopener"},
   [chromosome4-hd.txt](https://github.com/eddycyu/programming-with-a-purpose/blob/master/data/chromosome4-hd.txt){:target="_blank" rel="noopener"},
-  [chromosome4-healthy.txt](https://github.com/eddycyu/programming-with-a-purpose/blob/master/data/chromosome4-healty.txt){:target="_blank" rel="noopener"} 
+  [chromosome4-healthy.txt](https://github.com/eddycyu/programming-with-a-purpose/blob/master/data/chromosome4-healthy.txt){:target="_blank" rel="noopener"} 
   are in the specified format.
 
 Here are a few sample executions:

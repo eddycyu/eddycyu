@@ -29,7 +29,7 @@ fewest moves (although this fact was not proven until 2014).
   algorithm for the 3-pole towers of Hanoi problem.
 * Transfer (recursively) the _k_ smallest discs to the destination pole.
 
-<img src="RevesPuzzle.png" width="200">
+<img src="RevesPuzzle.png" width="400">
 
 Write a program RevesPuzzle.java that takes an integer command-line argument 
 _n_ and prints a solution to Reve’s puzzle. Assume that the the discs are 
