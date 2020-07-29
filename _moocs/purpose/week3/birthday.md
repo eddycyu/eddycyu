@@ -9,10 +9,10 @@ tags: [moocs, coursera, programming with a purpose]
 order: purpose.3.3
 ---
 
-Suppose that people enter a room one at a time. How people must enter until two 
-share a birthday? Counterintuitively, after 23 people enter the room, there is 
-approximately a 50–50 chance that two share a birthday. This phenomenon is 
-known as the [birthday problem](https://en.wikipedia.org/wiki/Birthday_problem){:target="_blank" rel="noopener"}
+Suppose that people enter a room one at a time. How many people must enter 
+until two share a birthday? Counterintuitively, after 23 people enter the room, 
+there is approximately a 50–50 chance that two share a birthday. This 
+phenomenon is known as the [birthday problem](https://en.wikipedia.org/wiki/Birthday_problem){:target="_blank" rel="noopener"}
 or birthday paradox.
 
 Write a program Birthday.java that takes two integer command-line arguments 
@@ -80,13 +80,13 @@ public class Birthday {
         final int n = Integer.parseInt(args[0]);
         final int trials = Integer.parseInt(args[1]);
 
-        final int[] count = new int[n];
-        final boolean[] seenBirthday = new boolean[n];
+        // note: at most n+1 people will enter a room before encountering
+        // a pair that shares the same birthday; hence need to try up to
+        // n+1 instead of n
+        final int[] count = new int[n+1];
         for (int t = 0; t < trials; t++) {
-            for (int i = 0; i < n; i++) {
-                seenBirthday[i] = false;
-            }
-            for (int nextPerson = 0; nextPerson < n; nextPerson++) {
+            final boolean[] seenBirthday = new boolean[n];
+            for (int nextPerson = 0; nextPerson < count.length; nextPerson++) {
                 int birthday = (int) (Math.random() * n);
                 // check if any person in the room has the same birthday as the next person
                 if (seenBirthday[birthday]) {
@@ -97,25 +97,21 @@ public class Birthday {
             }
         }
 
-        // compute fraction
-        final double[] fraction = new double[n];
+        // compute fraction and output
+        final double[] fraction = new double[count.length];
+        System.out.println(1 + "\t" + count[0] + "\t" + fraction[0]);
         for (int i = 1; i < count.length; i++) {
             double sum = 0.0;
             for (int j = 1; j <= i; j++) {
                 sum += count[j];
             }
             fraction[i] = sum / trials;
-        }
-
-        // output
-        for (int i = 0; i < count.length; i++) {
             System.out.println(i + 1 + "\t" + count[i] + "\t" + fraction[i]);
             if (fraction[i] >= 0.5) {
-
                 break;
             }
         }
     }
 }
-``` 
-Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Birthday.java){:target="_blank" rel="noopener"}
+```
+ Link To: [Java Source Code](https://github.com/eddycyu/programming-with-a-purpose/blob/master/src/Birthday.java){:target="_blank" rel="noopener"}
