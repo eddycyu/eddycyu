@@ -4,7 +4,7 @@ title: "Find The Longest Repeated Substring"
 date: 2020-07-01 12:00:00 -0700
 author: Eddy Yu
 category: blog
-tags: [java, search, longest common prefix]
+tags: [java, search, longest repeated substring]
 author: Eddy Yu
 published: true
 ---

@@ -96,5 +96,5 @@ Time Complexity: O(n log n)
 Space Complexity: O(n)
  
 ### Links:
-* [How To Implement Linear Sort](/blog/how-to-linear-sort)
+* [How To Implement Linear Search](/blog/how-to-linear-search)
 
