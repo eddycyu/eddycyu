@@ -76,8 +76,8 @@ public class FloydWarshall {
         for (int i = 0; i < distance.length; i++) {
             for (int j = 0; j < distance.length; j++) {
                 if (distance[i][j] != INF) {
-                    System.out.println(String.format("Distance from vertex[%d] to vertex[%d] is %d: ",
-                            i, j, distance[i][j]));
+                    System.out.printf("Distance from vertex[%d] to vertex[%d] is %d: %n",
+                            i, j, distance[i][j]);
                 }
             }
         }

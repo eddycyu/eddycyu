@@ -82,8 +82,8 @@ public class BellmanFord {
     private static void printShortestPathFromSource(int source, int[] distance, int[] predecessor) {
         for (int i = 0; i < distance.length; i++) {
             if (distance[i] != Integer.MAX_VALUE) {
-                System.out.print(String.format("Distance from vertex[%d] to vertex[%d] is %d: ",
-                        source, i, distance[i]));
+                System.out.printf("Distance from vertex[%d] to vertex[%d] is %d: ",
+                        source, i, distance[i]);
                 final Stack<Integer> path = getPath(source, i, predecessor);
                 while (!path.isEmpty()) {
                     System.out.print(path.pop());
