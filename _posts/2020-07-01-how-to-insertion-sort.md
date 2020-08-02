@@ -78,3 +78,8 @@ Space Complexity: O(1)
 ### Links:
 * [How To Implement Merge Sort](/blog/how-to-merge-sort)
 
+### Sources:
+* [Elementary Sorts](https://algs4.cs.princeton.edu/21elementary/)
+* [Insertion Sort](https://www.cs.princeton.edu/courses/archive/spring20/cos510/sf/vfa/Sort.html)
+* [Implementation Of Insertion Sort](https://algs4.cs.princeton.edu/21elementary/Insertion.java.html)
+* [Sorting](https://algs4.cs.princeton.edu/20sorting/)

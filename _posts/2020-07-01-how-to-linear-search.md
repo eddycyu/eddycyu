@@ -79,3 +79,5 @@ Space Complexity: O(1)
 ### Links:
 * [How To Implement Binary Search](/blog/how-to-binary-search)
 
+### Sources:
+* [Searching](https://algs4.cs.princeton.edu/30searching/)

@@ -165,3 +165,7 @@ Space Complexity: O(log n)
 ### Links:
 * [How To Implement Linear Search](/blog/how-to-linear-search)
 
+### Sources:
+* [Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)
+* [Implementation Of Binary Search](https://algs4.cs.princeton.edu/11model/BinarySearch.java.html)
+* [Searching](https://algs4.cs.princeton.edu/30searching/)

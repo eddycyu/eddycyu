@@ -98,3 +98,7 @@ Space Complexity: O(n)
 ### Links:
 * [How To Implement Linear Search](/blog/how-to-linear-search)
 
+### Sources:
+* [Merge Sort](https://algs4.cs.princeton.edu/22mergesort/)
+* [Implementation Of Merge Sort](https://algs4.cs.princeton.edu/22mergesort/Merge.java.html)
+* [Sorting](https://algs4.cs.princeton.edu/20sorting/)
