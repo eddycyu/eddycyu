@@ -338,7 +338,7 @@ class cowtour {
     }
 }
 ``` 
-Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/contour.java){:target="_blank" rel="noopener"}
+Link To: [Java Source Code](https://github.com/eddycyu/usaco/blob/master/src/cowtour.java){:target="_blank" rel="noopener"}
 
 ### Links:
 * [Find The Shortest Path (Floyd-Warshall Algorithm)](/blog/find-shortest-path-floyd-warshall)
